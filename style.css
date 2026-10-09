@@ -3,16 +3,18 @@ body {
   color: gold;
   font-family: Arial;
   text-align: center;
-  padding: 50px;
+  padding: 30px;
 }
 
-h1 {
-  font-size: 40px;
+header {
+  border-bottom: 2px solid gold;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
 }
 
-p {
-  font-size: 20px;
-}
+h1 { font-size: 36px; }
+h2 { font-size: 24px; color: orange; }
+p  { font-size: 18px; }
 
 button {
   background-color: gold;
